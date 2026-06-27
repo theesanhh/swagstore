@@ -4,7 +4,9 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "start": "node app.js"
+  
   },
   "devDependencies": {
     "jest": "^29.0.0"
